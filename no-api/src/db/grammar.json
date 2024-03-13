@@ -1,0 +1,22 @@
+[
+    {
+        "question": "De onde és?",
+        "answers": [
+            "wo wonhnst du?",
+            "woher wonhst du?",
+            "wann wonhst du?",
+            "wie wonhst du?"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "De onde és?",
+        "answers": [
+            "wo wonhnst du?",
+            "woher wonhst du?",
+            "wann wonhst du?",
+            "wie wonhst du?"
+        ],
+        "correct": 1
+    }
+]
