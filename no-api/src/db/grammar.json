@@ -1,22 +1,1202 @@
 [
     {
-        "question": "De onde és?",
+        "question": "Ich..",
         "answers": [
-            "wo wonhnst du?",
-            "woher wonhst du?",
-            "wann wonhst du?",
-            "wie wonhst du?"
+            "Kommst",
+            "Komme",
+            "Kommt",
+            "Kommen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Du..",
+        "answers": [
+            "kommst",
+            "komme",
+            "kommen",
+            "kommt"
         ],
         "correct": 1
     },
     {
-        "question": "De onde és?",
+        "question": "er/es/sie..",
         "answers": [
-            "wo wonhnst du?",
-            "woher wonhst du?",
-            "wann wonhst du?",
-            "wie wonhst du?"
+            "Kommt",
+            "Kommen",
+            "Kommst",
+            "Komme"
         ],
         "correct": 1
+    },
+    {
+        "question": "wir...",
+        "answers": [
+            "kommen",
+            "kommst",
+            "kommen",
+            "kommt"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "kommen",
+            "kommt",
+            "kommst",
+            "komme"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "sie/Sie",
+        "answers": [
+            "komme",
+            "kommst",
+            "kommt",
+            "kommen"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "ich",
+        "answers": [
+            "Heiße",
+            "Heißen",
+            "Heißt",
+            "Heißst (Lul)"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Du",
+        "answers": [
+            "Heißst",
+            "Heiße",
+            "Heißt",
+            "Heißen"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "er/es/sie",
+        "answers": [
+            "Heißt",
+            "Heiße",
+            "Heiß",
+            "Heißen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Wir",
+        "answers": [
+            "Heißen",
+            "Heiß",
+            "Heißt",
+            "Heiß"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Ihr",
+        "answers": [
+            "Heißt",
+            "Heißen",
+            "Heiß",
+            "Heißst"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "sie/Sie",
+        "answers": [
+            "Heißt",
+            "Heißt",
+            "Heißen",
+            "Heiße"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Ich",
+        "answers": [
+            "arbeit",
+            "arbeite",
+            "arbeitest",
+            "arbeitet"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Du",
+        "answers": [
+            "arbeitest",
+            "arbeitet",
+            "arbeite",
+            "arbeiten"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "er/es/sie",
+        "answers": [
+            "arbeite",
+            "arbetitest",
+            "arbeitet",
+            "arbeiten"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Wir",
+        "answers": [
+            "arbeite",
+            "arbeitest",
+            "arbeitet",
+            "arbeiten"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "arbeite",
+            "arbeitest",
+            "arbeitet",
+            "arbeiten"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "sie/Sie",
+        "answers": [
+            "arbeiten",
+            "arbeitet",
+            "arbeitest",
+            "arbeite"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Ich",
+        "answers": [
+            "fahre",
+            "fähre",
+            "fährst",
+            "fährt"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Du",
+        "answers": [
+            "fahre",
+            "fahren",
+            "fährst",
+            "fährt"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "er/es/sie",
+        "answers": [
+            "fahre",
+            "fahren",
+            "fährst",
+            "fährt"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "wir",
+        "answers": [
+            "fahre",
+            "fahren",
+            "fährst",
+            "fährt"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "fahre",
+            "fährt",
+            "fahren",
+            "fährst"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "ich",
+        "answers": [
+            "lese",
+            "liest",
+            "lesen",
+            "lest"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "du",
+        "answers": [
+            "lese",
+            "liest",
+            "lest",
+            "lesen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "er/es/sie",
+        "answers": [
+            "lesen",
+            "lest",
+            "liest",
+            "lese"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "wir",
+        "answers": [
+            "liest",
+            "lese",
+            "lesen",
+            "lese"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "lest",
+            "lesen",
+            "lese",
+            "liest"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "sie/Sie",
+        "answers": [
+            "liest",
+            "lest",
+            "lese",
+            "lesen"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "ich",
+        "answers": [
+            "treffe",
+            "treffen",
+            "triffst",
+            "trifft"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "du",
+        "answers": [
+            "triffst",
+            "treffe",
+            "trifft",
+            "treffen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "er/es/sie",
+        "answers": [
+            "treffst",
+            "trefft",
+            "treffen",
+            "treffe"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "wir",
+        "answers": [
+            "treffe",
+            "treffen",
+            "triffst",
+            "trifft"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "trefft",
+            "trifft",
+            "treffen",
+            "treffe"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "sie/Sie",
+        "answers": [
+            "treffen",
+            "triffst",
+            "trefft",
+            "trifft"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "ich",
+        "answers": [
+            "laufe",
+            "läufst",
+            "läuft",
+            "laufen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "du",
+        "answers": [
+            "laufst",
+            "läuft",
+            "läufst",
+            "laufen"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "er/es/sie",
+        "answers": [
+            "läuft",
+            "läufst",
+            "lauft",
+            "laufen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "wir",
+        "answers": [
+            "läuft",
+            "läufst",
+            "laufe",
+            "laufen"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "läuft",
+            "lauft",
+            "laufen",
+            "laufe"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "sie/Sie",
+        "answers": [
+            "laufen",
+            "läufst",
+            "läuft",
+            "lauft"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
     }
 ]
