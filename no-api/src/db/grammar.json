@@ -660,543 +660,363 @@
         "correct": 2
     },
     {
-        "question": "",
+        "question": "Ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "will",
+            "willst",
+            "wollen",
+            "wollt"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "will",
+            "wollt",
+            "willst",
+            "wollen"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "wollt",
+            "wollst",
+            "will",
+            "wollen"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "Wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "willst",
+            "wollen",
+            "wollt",
+            "wollst"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "Ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "wollen",
+            "wollt",
+            "will",
+            "willst"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "willst",
+            "wollt",
+            "will",
+            "wollen"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "muss",
+            "musst",
+            "muss",
+            "müssen"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "müsst",
+            "müssen",
+            "musst",
+            "muss"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "müsst",
+            "muss",
+            "müssen",
+            "musst"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "musst",
+            "müsst",
+            "muss",
+            "müssen"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "müsst",
+            "musst",
+            "müssen",
+            "muss"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "müssen",
+            "muss",
+            "musst",
+            "müsst"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "kann",
+            "kannst",
+            "könnt",
+            "können"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "kann",
+            "könnt",
+            "können",
+            "kannst"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "könnt",
+            "kann",
+            "kannst",
+            "können"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "können",
+            "könnt",
+            "kann",
+            "kannst"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "können",
+            "könnt",
+            "kannst",
+            "kann"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "könnt",
+            "kann",
+            "können",
+            "kannst"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "darf",
+            "darfst",
+            "dürfen",
+            "dürft"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "darf",
+            "dürft",
+            "darfst",
+            "dürfen"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "darfst",
+            "dürfen",
+            "dürft",
+            "darf"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "darfen",
+            "darfst",
+            "dürfen",
+            "dürft"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "dürft",
+            "darf",
+            "darfst",
+            "dürfen"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "darf",
+            "dürfen",
+            "darfst",
+            "dürft"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) Ich (SEIN)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "war",
+            "warst",
+            "wart",
+            "waren"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) Du (SEIN)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "warst",
+            "war",
+            "waren",
+            "wart"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) er/es/sie (SEIN)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "wart",
+            "waren",
+            "war",
+            "warst"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) wir (SEIN)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "waren",
+            "wart",
+            "warst",
+            "war"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) ihr (SEIN)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "war",
+            "waren",
+            "wart",
+            "warst"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) Sie (SEIN)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "warst",
+            "war",
+            "wart",
+            "waren"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) Ich (haben)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hatten",
+            "hattest",
+            "hatte",
+            "hattet"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) Du (haben)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hattet",
+            "hattest",
+            "hatte",
+            "hatten"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) er/es/sie (haben)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hatte",
+            "hatten",
+            "hattet",
+            "hattest"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) wir (haben)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hattest",
+            "hatte",
+            "hattet",
+            "hatten"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) ihr (haben)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hatte",
+            "hattet",
+            "hatten",
+            "hattest"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "Präteritum (Passado) Sie (haben)",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hattest",
+            "hatte",
+            "hattet",
+            "hatten"
         ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
-    },
-    {
-        "question": "",
-        "answers": [
-            "",
-            "",
-            "",
-            ""
-        ],
-        "correct": 0
+        "correct": 4
     }
 ]

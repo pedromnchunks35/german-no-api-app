@@ -1,6 +1,7 @@
 import themes from '../db/themes.json'
 import vocabulary from '../db/vocabulary.json'
 import grammar from '../db/grammar.json'
+import artikel from '../db/artikel.json'
 export type WrongAnswer = {
     question: Question
     answer: Number
@@ -27,6 +28,8 @@ export const getCorrectDb = (theme: string) => {
             return grammar;
         case "vocabulary":
             return vocabulary;
+        case "artikel":
+            return artikel;
         default:
             return vocabulary;
     }

@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Masculin",
+        "answers": [
+            "der",
+            "das",
+            "die",
+            "Nothing"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Neutral",
+        "answers": [
+            "die",
+            "der",
+            "das",
+            "N/A"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Feminin",
+        "answers": [
+            "der",
+            "das",
+            "N/A",
+            "die"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Plural",
+        "answers": [
+            "das",
+            "die",
+            "der",
+            "N/A"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "maskulin",
+        "answers": [
+            "ein",
+            "eine",
+            "-",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "femenin",
+        "answers": [
+            "-",
+            "eine",
+            "ein",
+            "N/A"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Plural",
+        "answers": [
+            "N/A",
+            "eine",
+            "ein",
+            "-"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "maskulin",
+        "answers": [
+            "kein",
+            "keine",
+            "N/A",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "femenin",
+        "answers": [
+            "kein",
+            "keine",
+            "N/A",
+            "N/A"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "plural",
+        "answers": [
+            "N/A",
+            "kein",
+            "keine",
+            "N/A"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "maskulin",
+        "answers": [
+            "mein",
+            "meine",
+            "N/A",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "femenin",
+        "answers": [
+            "N/A",
+            "mein",
+            "N/A",
+            "meine"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "plural",
+        "answers": [
+            "meine",
+            "N/A",
+            "mein",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Akkusativ masculin",
+        "answers": [
+            "den",
+            "das",
+            "die",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    },
+    {
+        "question": "",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
+    }
+]
