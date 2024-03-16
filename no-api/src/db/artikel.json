@@ -140,43 +140,193 @@
         "correct": 1
     },
     {
-        "question": "",
+        "question": "Akkusativ neutral",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "der",
+            "das",
+            "den",
+            "N/A"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "Akkusativ feminin",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "die",
+            "das",
+            "den",
+            "N/A"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Akkusativ Plural",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "die",
+            "das",
+            "den",
+            "N/A"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Akkusativ masculin",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "eine",
+            "einen",
+            "ein",
+            "-"
         ],
-        "correct": 0
+        "correct": 2
+    },
+    {
+        "question": "Akkusativ neutral",
+        "answers": [
+            "einen",
+            "ein",
+            "eine",
+            "-"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Akkusativ femenin",
+        "answers": [
+            "eine",
+            "ein",
+            "-",
+            "einen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "AKkusativ Plural",
+        "answers": [
+            "-",
+            "ein",
+            "eine",
+            "einen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Akkusativ masculin",
+        "answers": [
+            "keinen",
+            "kein",
+            "keine",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Akkusativ neutral",
+        "answers": [
+            "kein",
+            "keinen",
+            "N/A",
+            "keine"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Akkusativ femenin",
+        "answers": [
+            "keine",
+            "kein",
+            "keinen",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Akkusativ Plural",
+        "answers": [
+            "N/A",
+            "-",
+            "kein",
+            "keine"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Dativ maskulin",
+        "answers": [
+            "der",
+            "dem",
+            "den",
+            "N/A"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Dativ neutral",
+        "answers": [
+            "N/A",
+            "der",
+            "dem",
+            "den"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dativ feminin",
+        "answers": [
+            "den",
+            "dem",
+            "der",
+            "N/A"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dativ Plural",
+        "answers": [
+            "der",
+            "den",
+            "dem",
+            "N/A"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Dativ maskulin",
+        "answers": [
+            "einem",
+            "einer",
+            "-",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Dativ neutral",
+        "answers": [
+            "einem",
+            "einer",
+            "-",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Dativ femenin",
+        "answers": [
+            "einem",
+            "N/A",
+            "einer",
+            "-"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dativ Plural",
+        "answers": [
+            "einem",
+            "einer",
+            "-",
+            "N/A"
+        ],
+        "correct": 3
     }
 ]

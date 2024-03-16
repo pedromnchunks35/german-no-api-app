@@ -1,0 +1,293 @@
+[
+    {
+        "question": "junto a",
+        "answers": [
+            "an",
+            "auf",
+            "in",
+            "neben"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "em cima de",
+        "answers": [
+            "hinter",
+            "an",
+            "auf",
+            "in"
+        ],
+        "correct": 3
+    }
+    ,
+    {
+        "question": "hinter",
+        "answers": [
+            "atrás de",
+            "auf",
+            "vor",
+            "von"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "dentro",
+        "answers": [
+            "unter",
+            "hinter",
+            "in",
+            "über"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "ao lado de",
+        "answers": [
+            "in",
+            "an",
+            "hinter",
+            "neben"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "por cima",
+        "answers": [
+            "zwischen",
+            "unter",
+            "über",
+            "vor"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "por baixo",
+        "answers": [
+            "zwischen",
+            "über",
+            "unter",
+            "an"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "á frente",
+        "answers": [
+            "von",
+            "vor",
+            "unter",
+            "in"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "entre",
+        "answers": [
+            "vor",
+            "unter",
+            "zwischen",
+            "in"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "fora de",
+        "answers": [
+            "aus",
+            "um/herum",
+            "zu",
+            "durch"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "dentro de",
+        "answers": [
+            "zu",
+            "aus",
+            "um/herum",
+            "zwichen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "em volta",
+        "answers": [
+            "aus",
+            "zu",
+            "um/herum",
+            "zwichen"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "passar por",
+        "answers": [
+            "aus",
+            "zu",
+            "zwichen",
+            "durch"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "antes (vindo de)",
+        "answers": [
+            "von",
+            "aus",
+            "nach",
+            "dann"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "depois (indo de) ",
+        "answers": [
+            "von",
+            "nach",
+            "aus",
+            "vor"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "contra",
+        "answers": [
+            "nach",
+            "von",
+            "gegen",
+            "gegenüber"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "do lado oposto",
+        "answers": [
+            "gegenüber",
+            "gegen",
+            "nach",
+            "von"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "para",
+        "answers": [
+            "um",
+            "für",
+            "durch",
+            "ohne"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "sem",
+        "answers": [
+            "ohne",
+            "durch",
+            "um",
+            "gegen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "desde",
+        "answers": [
+            "bei",
+            "seit",
+            "nach",
+            "zu"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "junto a",
+        "answers": [
+            "nach",
+            "bei",
+            "seit",
+            "von"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "an+dem",
+        "answers": [
+            "am",
+            "N/A",
+            "im",
+            "beim"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "in+dem",
+        "answers": [
+            "am",
+            "im",
+            "beim",
+            "vom"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "bei+dem",
+        "answers": [
+            "am",
+            "im",
+            "beim",
+            "vom"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "von+dem",
+        "answers": [
+            "zum",
+            "vom",
+            "ins",
+            "zur"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "zu+dem",
+        "answers": [
+            "beim",
+            "vom",
+            "ins",
+            "zum"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "das+an",
+        "answers": [
+            "zur",
+            "ans",
+            "ins",
+            "am"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "das+in",
+        "answers": [
+            "vom",
+            "beim",
+            "ins",
+            "zur"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "zu+der",
+        "answers": [
+            "ans",
+            "zum",
+            "zur",
+            "ins"
+        ],
+        "correct": 3
+    }
+]

@@ -2,6 +2,8 @@ import themes from '../db/themes.json'
 import vocabulary from '../db/vocabulary.json'
 import grammar from '../db/grammar.json'
 import artikel from '../db/artikel.json'
+import possesiv from '../db/possesiv.json'
+import localePräpositionen from '../db/localePräpositionen.json'
 export type WrongAnswer = {
     question: Question
     answer: Number
@@ -30,6 +32,10 @@ export const getCorrectDb = (theme: string) => {
             return vocabulary;
         case "artikel":
             return artikel;
+        case "possesiv":
+            return possesiv;
+        case "localePräpositionen":
+            return localePräpositionen;
         default:
             return vocabulary;
     }

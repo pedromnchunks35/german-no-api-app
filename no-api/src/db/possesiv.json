@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Nominativ ich masculin/neutral",
+        "answers": [
+            "mein",
+            "sein",
+            "ihr",
+            "unser"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Nominativ du masculin/neutral",
+        "answers": [
+            "dein",
+            "sein",
+            "ihr",
+            "unser"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Nominativ er/es masculin/neutral",
+        "answers": [
+            "ihr",
+            "dein",
+            "sein",
+            "unser"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Nominativ sie masculin/neutral",
+        "answers": [
+            "ihr",
+            "sein",
+            "dein",
+            "mein"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Nominativ wir masculin/neutral",
+        "answers": [
+            "sein",
+            "dein",
+            "euer",
+            "unser"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "ihr",
+        "answers": [
+            "sein",
+            "euer",
+            "dein",
+            "ihr"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Nominativ sie/Sie masculin/neutral",
+        "answers": [
+            "ihr/Ihr",
+            "sein",
+            "dein",
+            "mein"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Nominativ ich feminin/plural",
+        "answers": [
+            "meine",
+            "deine",
+            "seine",
+            "ihre"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Nominativ du feminin/plural",
+        "answers": [
+            "ihre",
+            "meine",
+            "deine",
+            "seine"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Nominativ er/es feminin/plural",
+        "answers": [
+            "seine",
+            "deine",
+            "ihre",
+            "unsere"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Nominativ sie feminin/plural",
+        "answers": [
+            "unsere",
+            "seine",
+            "ihre",
+            "ihre/Ihre"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Nominativ wir feminin/plural",
+        "answers": [
+            "seine",
+            "unsere",
+            "euere",
+            "ihre/Ihre"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Nominativ ihr feminin/plural",
+        "answers": [
+            "ihre/Ihre",
+            "unsere",
+            "euere",
+            "seine"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Nominativ sie/Sie feminin/plural",
+        "answers": [
+            "seine",
+            "unsere",
+            "euere",
+            "ihr/Ihre"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Akkusativ ich",
+        "answers": [
+            "mich",
+            "dich",
+            "ihn",
+            "es"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Akkusativ du",
+        "answers": [
+            "es",
+            "mich",
+            "dich",
+            "ihn"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Akkusativ er",
+        "answers": [
+            "sie",
+            "dich",
+            "ihn",
+            "es"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Akkusativ es",
+        "answers": [
+            "ihm",
+            "es",
+            "sie",
+            "euch"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Akkusativ sie",
+        "answers": [
+            "dich",
+            "ihn",
+            "es",
+            "sie"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Akkusativ wir",
+        "answers": [
+            "ihr",
+            "uns",
+            "euch",
+            "dich"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Akkusativ ihr",
+        "answers": [
+            "ihr",
+            "euch",
+            "dich",
+            "mich"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Akkusativ sie/Sie",
+        "answers": [
+            "uns",
+            "sie",
+            "sie/Sie",
+            "euch"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dativ ich",
+        "answers": [
+            "mir",
+            "dir",
+            "ihm",
+            "uns"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Dativ du",
+        "answers": [
+            "mir",
+            "ihm",
+            "dir",
+            "uns"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dativ er",
+        "answers": [
+            "mir",
+            "ihm",
+            "dir",
+            "uns"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Dativ es",
+        "answers": [
+            "uns",
+            "ihr",
+            "ihm",
+            "euch"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dativ sie",
+        "answers": [
+            "ihm",
+            "ihr",
+            "euch",
+            "uns"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Dativ wir",
+        "answers": [
+            "mir",
+            "uns",
+            "euch",
+            "dir"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Dativ ihr",
+        "answers": [
+            "euch",
+            "mir",
+            "uns",
+            "dir"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Dativ sie/Sie",
+        "answers": [
+            "ihnen/Ihnen",
+            "euch",
+            "uns",
+            "Ihr"
+        ],
+        "correct": 1
+    }
+]
