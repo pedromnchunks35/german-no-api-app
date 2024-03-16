@@ -1,0 +1,282 @@
+[
+    {
+        "question": "o lar",
+        "answers": [
+            "Mein hause",
+            "Mein zuhause",
+            "Mein wohnung",
+            "bietet"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "a casa",
+        "answers": [
+            "Mein hause",
+            "Mein house",
+            "Mein zuhause",
+            "Wohnung"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "apartamento",
+        "answers": [
+            "bietet",
+            "Mein zuhause",
+            "Mein hause",
+            "Mein wohnung"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "bietet",
+        "answers": [
+            "call",
+            "ofertas",
+            "oferecer",
+            "dar"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Matratze",
+        "answers": [
+            "cama",
+            "cobertores",
+            "colchao",
+            "sala"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Bett",
+        "answers": [
+            "colchoes",
+            "cama",
+            "cobertores",
+            "cona"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "schlafplatz",
+        "answers": [
+            "local de dormir",
+            "cama",
+            "colchoes",
+            "samba"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "wohngemeinschaft",
+        "answers": [
+            "partilha",
+            "apartamento",
+            "apartamento partilhado",
+            "consortio"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "gemeinschaft",
+        "answers": [
+            "prateleira",
+            "armario",
+            "apartamento",
+            "partilhado"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Wohnzimmer",
+        "answers": [
+            "quarto",
+            "sala de estar",
+            "cozinha",
+            "quarto de apartamento"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "SchalftZimmer",
+        "answers": [
+            "dispensa",
+            "cozinha",
+            "quarto dos hospedes",
+            "quarto para dormir"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "KinderZimmer",
+        "answers": [
+            "quarto dos brinquedos",
+            "quarto das criancas",
+            "quarto pequeno",
+            "quarto de interesse"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "ArbeitzZimmer",
+        "answers": [
+            "quarto grande",
+            "quarto de enfermagem",
+            "quarto de trabalho",
+            "cozinha"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "EssZimmer",
+        "answers": [
+            "sala de estar",
+            "cozinha",
+            "quarto para comer",
+            "arrecadacao"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Küche",
+        "answers": [
+            "arrecadacao",
+            "sala de estar",
+            "cozinha",
+            "quarto para comer"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Bad",
+        "answers": [
+            "casa de banho",
+            "arrecadacao",
+            "entrada",
+            "saida"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "der Flur",
+        "answers": [
+            "entrada",
+            "corredor",
+            "escadas",
+            "cozinha"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "der Balkon",
+        "answers": [
+            "varanda",
+            "balcao",
+            "corredor",
+            "jardim"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "der Garten",
+        "answers": [
+            "jardim",
+            "corredor",
+            "varanda",
+            "balcao"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "armário",
+        "answers": [
+            "der rank",
+            "die scrank",
+            "der schrank",
+            "der mitch"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "açucar",
+        "answers": [
+            "die zucker",
+            "der zucker",
+            "der sucker",
+            "der sucka"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "das Fensterbrett",
+        "answers": [
+            "cortinas",
+            "janela",
+            "soleira da janela",
+            "cabeceira"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "die Gardine",
+        "answers": [
+            "cortina",
+            "cobertor",
+            "ervas",
+            "gabardine"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Prato",
+        "answers": [
+            "das Teller",
+            "die Teller",
+            "der Teller",
+            "der Telle"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "die Spülmachine",
+        "answers": [
+            "qualquer feira",
+            "maquina de lavar loiça",
+            "lavar loiça",
+            "maquina tarde"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "die spüle",
+        "answers": [
+            "lavar roupa",
+            "maquina de lavar",
+            "tarde",
+            "lavar loiça"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "der Herd",
+        "answers": [
+            "fogao",
+            "forno",
+            "grelha",
+            "painel"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "der ofen",
+        "answers": [
+            "painel",
+            "fogao",
+            "forno",
+            "grelha"
+        ],
+        "correct": 3
+    }
+]

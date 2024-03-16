@@ -14,10 +14,15 @@ type Props = {
 export const QuestionsMenu: React.FunctionComponent<Props> = ({ counter, setCounter, setMenu, wrongAnswers, config, currentQuestion, setQuestion, setWrongAnswers }) => {
     const answer = async (_answer: Number) => {
         let answer: HTMLElement = document.getElementById("answer-" + _answer) as HTMLElement;
+        let correctAnswer: HTMLElement = document.getElementById("answer-" + (Number(currentQuestion.correct))) as HTMLElement;
+        let wrong: boolean = false;
         if (currentQuestion.correct == _answer) {
             answer.classList.remove("bg-white");
             answer.classList.add("bg-lime-400");
         } else {
+            wrong = true;
+            correctAnswer.classList.remove("bg-white");
+            correctAnswer.classList.add("bg-lime-400");
             answer.classList.remove("bg-white");
             answer.classList.add("bg-rose-950");
             let new_answer: WrongAnswer[] = wrongAnswers;
@@ -31,11 +36,15 @@ export const QuestionsMenu: React.FunctionComponent<Props> = ({ counter, setCoun
             answer?.classList.remove("bg-lime-400");
             answer?.classList.remove("bg-rose-950");
             answer?.classList.add("bg-white");
+            if (correctAnswer?.classList.contains("bg-lime-400")) {
+                correctAnswer?.classList.remove("bg-rose-950");
+                correctAnswer?.classList.add("bg-white");
+            }
             let response: boolean = newQuestion()
             if (!response) {
                 setMenu(2)
             }
-        }, 0.25 * 1000);
+        }, !wrong ? (0.25 * 1000) : (0.25 * 8000));
     }
     const newQuestion = () => {
         if (config.random) {

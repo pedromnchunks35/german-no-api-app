@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Homem/marido",
+        "answers": [
+            "der Mann",
+            "der mann",
+            "die Mann",
+            "das Mann"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Mulher/senhora",
+        "answers": [
+            "die Frau",
+            "der Frau",
+            "das Frau",
+            "die Herr"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "amigo",
+        "answers": [
+            "der freunde",
+            "mein freunde",
+            "das freunde",
+            "die freunde"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "namorado",
+        "answers": [
+            "mein freunde",
+            "der freunde",
+            "das freunde",
+            "meine freunde"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Irmao",
+        "answers": [
+            "das Bruder",
+            "die Bruder",
+            "der Bruder",
+            "das Bruder"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Filha",
+        "answers": [
+            "der Schwester",
+            "die Schwester",
+            "die Tochter",
+            "das Tochter"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Irma",
+        "answers": [
+            "das Tochter",
+            "die Tochter",
+            "die Schwester",
+            "der Tochter"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Parceiros",
+        "answers": [
+            "der partner",
+            "das partner",
+            "die partner",
+            "die partners"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "filhos/filhas",
+        "answers": [
+            "der kinder",
+            "das kinder",
+            "die kinder",
+            "die kind"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "solteiro",
+        "answers": [
+            "ledig",
+            "ladig",
+            "ludig",
+            "lada"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "casado",
+        "answers": [
+            "ledig",
+            "gesechieden",
+            "Verheiratet",
+            "Verheira"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "divorciado",
+        "answers": [
+            "gehen",
+            "geseh",
+            "gesehieden",
+            "ledig"
+        ],
+        "correct": 3
+    }
+]

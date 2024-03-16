@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Mala",
+        "answers": [
+            "Die Tafel",
+            "Der Tasche",
+            "Die Tasche",
+            "Die Taschen"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Caderno",
+        "answers": [
+            "Der Heft",
+            "Das Heft",
+            "Die Heft",
+            "Die Heften"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Caneta",
+        "answers": [
+            "Der kulis",
+            "Der kuli",
+            "Die Tische",
+            "Der Tische"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Borracha",
+        "answers": [
+            "Die Radiergummi",
+            "Der Radiergummi",
+            "Die Fenster",
+            "Der kuli"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Mesa",
+        "answers": [
+            "Der Tisch",
+            "Die Tischen",
+            "Die Tafel",
+            "Der Tischen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Livro",
+        "answers": [
+            "Das Buch",
+            "Die Buch",
+            "Der Buch",
+            "Die Büchen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Lapis",
+        "answers": [
+            "Der stuhe",
+            "Die Bleistifte",
+            "Das Bleistifte",
+            "Der Bleistift"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Lixo",
+        "answers": [
+            "Die papierkorb",
+            "Der stift",
+            "Das papierkorb",
+            "Der papierkorb"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Janela",
+        "answers": [
+            "Die fenster",
+            "Der fenster",
+            "Das fenster",
+            "Die tabel"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Quadro",
+        "answers": [
+            "Der Apfel",
+            "Die Tafel",
+            "Die Tafels",
+            "Das Tafel"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Cadeira",
+        "answers": [
+            "Das stuhe",
+            "Die stuhl",
+            "Der stuhl",
+            "Die stühen"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Agua",
+        "answers": [
+            "Die Flasche",
+            "Der Flasche",
+            "Das Flasche",
+            "Der Flaschen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Jornal",
+        "answers": [
+            "jornal",
+            "heft",
+            "zeitung",
+            "schalfen"
+        ],
+        "correct": 3
+    }
+]

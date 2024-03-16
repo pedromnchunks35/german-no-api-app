@@ -1,0 +1,352 @@
+[
+    {
+        "question": "Primavera",
+        "answers": [
+            "im Sommer",
+            "im frühlig",
+            "am frühlig",
+            "im fruhlig"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Verao",
+        "answers": [
+            "an Sommer",
+            "in Sommer",
+            "am Sommer",
+            "im Sommer"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Outono",
+        "answers": [
+            "im Out",
+            "im Herbst",
+            "im Horbst",
+            "im Outer"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Inverno",
+        "answers": [
+            "Im Winter",
+            "Im Winner",
+            "Im Inver",
+            "Im Winte"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "segunda-feira",
+        "answers": [
+            "am Monstag",
+            "im Monstag",
+            "am Dienstag",
+            "am Donnerstag"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "terca-feira",
+        "answers": [
+            "am Mittwoch",
+            "am Dienstag",
+            "im Dienstag",
+            "am Freitag"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "quarta-feira",
+        "answers": [
+            "am Freitag",
+            "am Monstag",
+            "am Mittwoch",
+            "am Sonntag"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "quinta-feira",
+        "answers": [
+            "im Monstag",
+            "am Mittwoch",
+            "am Monstag",
+            "am Donnerstag"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "sexta-feira",
+        "answers": [
+            "am freitag",
+            "im freitag",
+            "am sonnstag",
+            "im fruhlig"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Sabado",
+        "answers": [
+            "am Sonntag",
+            "im Samtag",
+            "am Samstag",
+            "im Sonntag"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Domingo",
+        "answers": [
+            "am Dienstag",
+            "im Sonntag",
+            "am Samstag",
+            "am Sonntag"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "por dia",
+        "answers": [
+            "bis tag",
+            "zu tag",
+            "pro tag",
+            "pra tag"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "semana",
+        "answers": [
+            "wache",
+            "wochenung",
+            "whone",
+            "woche"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "fim-de-semana",
+        "answers": [
+            "rezende",
+            "wochenende",
+            "woche",
+            "wocha"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "meio dia",
+        "answers": [
+            "mittwoch",
+            "mittag",
+            "mit",
+            "taghalf"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "meia-noite",
+        "answers": [
+            "Mitnatcht",
+            "Mitternacht",
+            "nachttag",
+            "tagnicht"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "8 horas",
+        "answers": [
+            "acht uhr",
+            "acht uhren",
+            "acht punt null uhr",
+            "neun uhr"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "8:15",
+        "answers": [
+            "viertel nach acht",
+            "viertel vor acht",
+            "acht und fünfshen",
+            "acht vor viertel"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "8:25",
+        "answers": [
+            "fünf vor halb neun",
+            "fünf nach halp neun",
+            "halp neun",
+            "halp neun von funf"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "8:30",
+        "answers": [
+            "neun halp",
+            "halp neun",
+            "acht",
+            "sehn"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "8:35",
+        "answers": [
+            "fünf nach halb neun",
+            "fünf vor halp neun",
+            "acht nach fünf",
+            "fünf nach dreizig"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "8:45",
+        "answers": [
+            "Viertel vor neun",
+            "neun nach fünfundviertzig",
+            "Viertel nach neun",
+            "nach neun fünf"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "janeiro",
+        "answers": [
+            "der januar",
+            "die januar",
+            "der jan",
+            "der janeer"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "fevereiro",
+        "answers": [
+            "der februar",
+            "die februar",
+            "das februar",
+            "ei fabruar"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "março",
+        "answers": [
+            "der März",
+            "die März",
+            "das März",
+            "der Mai"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Abril",
+        "answers": [
+            "der Abril",
+            "der April",
+            "das Abra",
+            "der Apri"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Maio",
+        "answers": [
+            "der Mai",
+            "der Maion",
+            "der Mao",
+            "die Mao"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Junho",
+        "answers": [
+            "das jun",
+            "der juli",
+            "der juni",
+            "der jun"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Julho",
+        "answers": [
+            "der ju",
+            "der jul",
+            "der Jun",
+            "der Juli"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Agosto",
+        "answers": [
+            "der Agusto",
+            "der Argusto",
+            "der Augusto",
+            "der Argus"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Setembro",
+        "answers": [
+            "der Septe",
+            "der September",
+            "der Setember",
+            "der Septembe"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Outubro",
+        "answers": [
+            "der Octo",
+            "der October",
+            "der Oktober",
+            "der Ocktover"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Novembro",
+        "answers": [
+            "der Nobember",
+            "der Novem",
+            "der November",
+            "de Novembar"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Dezembro",
+        "answers": [
+            "der december",
+            "der dezember",
+            "der desember",
+            "der dewinter"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "vormitags",
+        "answers": [
+            "dias depois",
+            "depois de dias",
+            "manhas",
+            "tardes"
+        ],
+        "correct": 3
+    }
+]

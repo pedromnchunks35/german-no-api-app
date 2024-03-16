@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Nome do pais",
+        "answers": [
+            "Länder",
+            "Ländernamen",
+            "Nationalitäten",
+            "Ländoran"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Nacionalidade",
+        "answers": [
+            "Ländermen",
+            "Nationalitäten",
+            "gesehieden",
+            "Ländernamen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Pais natal",
+        "answers": [
+            "Heimatland",
+            "Landerland",
+            "Heuteland",
+            "Landaland"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Lingua materna",
+        "answers": [
+            "muttersprache",
+            "mainsprache",
+            "mainlangue",
+            "meinlangue"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Outras linguas",
+        "answers": [
+            "oter sprache",
+            "outer sprachen",
+            "audere sprachen",
+            "audere sprache"
+        ],
+        "correct": 3
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "question": "Iogurte",
+        "answers": [
+            "die Joghurt",
+            "der Joghurt",
+            "der babybrei",
+            "das Joghurt"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "papas de bebés",
+        "answers": [
+            "die baby",
+            "die babybrei",
+            "der babybrei",
+            "das babybrei"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "maça",
+        "answers": [
+            "die eis",
+            "die maes",
+            "die apfel",
+            "der apfel"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "ovos",
+        "answers": [
+            "der ei",
+            "die ei",
+            "das ei",
+            "die apfel"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "carne",
+        "answers": [
+            "das Fleich",
+            "der Fleich",
+            "die Fleich",
+            "die ei"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Pepino",
+        "answers": [
+            "das ei",
+            "der Gurke",
+            "das Gurke",
+            "die Gurke"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Pimento",
+        "answers": [
+            "das Käse",
+            "die Pimentium",
+            "der Paprika",
+            "die Paprika"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "agua",
+        "answers": [
+            "Gurke",
+            "Flasche",
+            "Wasses",
+            "Saft"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "sumo de laranja",
+        "answers": [
+            "das Saft",
+            "die Saft",
+            "der Saft",
+            "der Salat"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "salada",
+        "answers": [
+            "der Salat",
+            "die Salat",
+            "das Saft",
+            "der Wein"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "leite",
+        "answers": [
+            "der Milch",
+            "die Milch",
+            "das Milch",
+            "der Mil"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Marmelada",
+        "answers": [
+            "das Marmelade",
+            "die Marmelade",
+            "der Marmelade",
+            "dein Marmelade"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Tomate",
+        "answers": [
+            "die Tomate",
+            "der Tomate",
+            "das Tomate",
+            "der Käse"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "queijo",
+        "answers": [
+            "das Käse",
+            "die Käse",
+            "der Käse",
+            "der Katze"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "banana",
+        "answers": [
+            "die Tomate",
+            "der Banane",
+            "das Banane",
+            "die Banane"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "vinho",
+        "answers": [
+            "die wein",
+            "das wein",
+            "die seka",
+            "der wein"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Frigorifico",
+        "answers": [
+            "frigo",
+            "Kühls",
+            "Kühlschranke",
+            "schranke"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "fruta",
+        "answers": [
+            "fruit",
+            "obste",
+            "obst",
+            "froit"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "preferir",
+        "answers": [
+            "lieba",
+            "prefer",
+            "lieber",
+            "gern"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "preferido",
+        "answers": [
+            "am libsten",
+            "prefer",
+            "gern",
+            "liebe"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "gostar",
+        "answers": [
+            "libsten",
+            "gern",
+            "aim",
+            "gernen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "packung",
+        "answers": [
+            "copo",
+            "pacote",
+            "massa",
+            "dose"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Becher",
+        "answers": [
+            "Copo de cerveja",
+            "chavena",
+            "cafe",
+            "Feixo"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Teia/rede",
+        "answers": [
+            "lights",
+            "retz",
+            "netz",
+            "baita"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Lata",
+        "answers": [
+            "Dose",
+            "Lat",
+            "Alum",
+            "aniv"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Massa",
+        "answers": [
+            "nude",
+            "nudels",
+            "nudeln",
+            "packung"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Reis",
+        "answers": [
+            "arroz",
+            "rei",
+            "panados",
+            "ovos"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "batata",
+        "answers": [
+            "frits",
+            "pomme die terre",
+            "kartoffeln",
+            "frittes"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "tomar pequeno almoco",
+        "answers": [
+            "essen tag",
+            "kleinessen",
+            "frühstücken",
+            "morgen tag"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "zusammen",
+        "answers": [
+            "capa",
+            "jornal",
+            "guloseimas",
+            "juntos"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Tüte",
+        "answers": [
+            "saca",
+            "saco",
+            "batuca",
+            "bazuca"
+        ],
+        "correct": 2
+    }
+]

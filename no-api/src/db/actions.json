@@ -1,0 +1,182 @@
+[
+    {
+        "question": "Cozinhar",
+        "answers": [
+            "Kocht",
+            "Kochen",
+            "Koch",
+            "Kucht"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "caminhar",
+        "answers": [
+            "fahrrad",
+            "fuß",
+            "wandern",
+            "zeitung"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "encontrar-se com amigos",
+        "answers": [
+            "treffst freunde",
+            "treffen freunde",
+            "gehen freunde",
+            "gulag freunde"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "leituras",
+        "answers": [
+            "liert",
+            "liest",
+            "lerne",
+            "lieste"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "jogar volley",
+        "answers": [
+            "play volleyball",
+            "fahren volleyball",
+            "spielt volleyball",
+            "spielten volleyball"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "dormir",
+        "answers": [
+            "dorm",
+            "doch",
+            "schlafe",
+            "schlafen"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "patinar no gelo",
+        "answers": [
+            "ski",
+            "schlittschuh laufen",
+            "fahrad laufen",
+            "laufen"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "aufheben",
+        "answers": [
+            "levantar",
+            "fazer",
+            "cozinhar",
+            "lavar"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "apanhar",
+        "answers": [
+            "grete",
+            "catshle",
+            "aber",
+            "abholen"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "Fazer uma pausa",
+        "answers": [
+            "Pause",
+            "Pause machen",
+            "Pause maker",
+            "Pause"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "conhecer",
+        "answers": [
+            "kennen lernen",
+            "kennen machen",
+            "kennen zu",
+            "zu kennen"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "responder",
+        "answers": [
+            "wortensagen",
+            "einworten",
+            "worten",
+            "antworten"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "kopieren",
+        "answers": [
+            "fotocopias",
+            "fazer copias",
+            "scanear",
+            "fotocopiar"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "präsentieren",
+        "answers": [
+            "apresentadora",
+            "apresentador",
+            "apresentar",
+            "demonstrar"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "studieren",
+        "answers": [
+            "estudar",
+            "estudo",
+            "ensinar",
+            "ensinador"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "telefonar",
+        "answers": [
+            "telecall",
+            "telefonierin",
+            "telefonieren",
+            "call"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "schreiben",
+        "answers": [
+            "querer",
+            "visualizar",
+            "apontar",
+            "escrever"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "doente",
+        "answers": [
+            "sick",
+            "krank",
+            "kronk",
+            "krunk"
+        ],
+        "correct": 2
+    }
+]

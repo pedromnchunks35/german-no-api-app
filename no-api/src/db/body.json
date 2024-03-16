@@ -1,0 +1,122 @@
+[
+    {
+        "question": "das Auge",
+        "answers": [
+            "olhos",
+            "nariz",
+            "bracos",
+            "labios"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "die Nase",
+        "answers": [
+            "olhos",
+            "bracos",
+            "labios",
+            "nariz"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "der Mund",
+        "answers": [
+            "olhos",
+            "labios",
+            "boca",
+            "nariz"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "orelhas",
+        "answers": [
+            "das ohr",
+            "der ohr",
+            "die ohr",
+            "der mund"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "der Hals",
+        "answers": [
+            "pescoco",
+            "boca",
+            "orelhas",
+            "nariz"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "die Schuster",
+        "answers": [
+            "mao",
+            "ombro",
+            "nariz",
+            "costas"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "braço",
+        "answers": [
+            "der Arm",
+            "die Arm",
+            "das Arm",
+            "die Hand"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "mao",
+        "answers": [
+            "der Arm",
+            "der Hand",
+            "die Hand",
+            "die Nase"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "costas",
+        "answers": [
+            "der Rücken",
+            "die Rücken",
+            "der Fuß",
+            "das Ohr"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "barriga",
+        "answers": [
+            "die Rücken",
+            "die Bauch",
+            "der Bauch",
+            "das Rücken"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "perna",
+        "answers": [
+            "das Bein",
+            "der Bein",
+            "die Bein",
+            "das Rücken"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "pé",
+        "answers": [
+            "der Fuß",
+            "das Fuß",
+            "die Fuß",
+            "der Bauch"
+        ],
+        "correct": 1
+    }
+]

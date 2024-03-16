@@ -1,0 +1,116 @@
+[
+    {
+        "question": "de bike",
+        "answers": [
+            "mit dem auto",
+            "mit dem fahrrad",
+            "mit der fahrrad",
+            "mit das bus"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "de carro",
+        "answers": [
+            "mit dem auto",
+            "mit der auto",
+            "mit die auto",
+            "mit fuß"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "de comboio",
+        "answers": [
+            "Mit dem flug-zeug",
+            "mit der S-bahn",
+            "mit dem auto",
+            "mit dem Zug"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "de metro",
+        "answers": [
+            "mit der S-Bahn",
+            "mit der U-Bahn",
+            "mit dem Bus",
+            "mit die fahrrad"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "de navio",
+        "answers": [
+            "mit dem schiff",
+            "mit dem barc",
+            "mit dem ship",
+            "mit das ship"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "de aviao",
+        "answers": [
+            "mit dem auto",
+            "mit dem Schiff",
+            "mit dem Bus",
+            "mit dem Flug-zeug"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "a pé",
+        "answers": [
+            "mit der Fuß",
+            "mit dem Wandern",
+            "mit dem Fuß",
+            "zu Fuß"
+        ],
+        "correct": 4
+    }
+    ,
+    {
+        "question": "entrar transporte publico",
+        "answers": [
+            "einstagen",
+            "umsteigen",
+            "austeigen",
+            "N/A"
+        ],
+        "correct": 1
+    }
+    ,
+    {
+        "question": "sair de um transporte e entrar em outro",
+        "answers": [
+            "N/A",
+            "austeigen",
+            "umsteigen",
+            "einsteigen"
+        ],
+        "correct": 3
+    }
+    ,
+    {
+        "question": "sair de um transporte",
+        "answers": [
+            "umsteigen",
+            "einsteigen",
+            "austeigen",
+            "N/A"
+        ],
+        "correct": 3
+    }
+    ,
+    {
+        "question": "Paragem",
+        "answers": [
+            "Haltestelle",
+            "nehmen",
+            "vielleicht",
+            "fahrrad"
+        ],
+        "correct": 1
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "casamento",
+        "answers": [
+            "die Hochzeit",
+            "der Hochzeit",
+            "das Hochzeit",
+            "der gechenken"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "trocar aliança",
+        "answers": [
+            "ringe lieben",
+            "ringe change",
+            "ringe tauschen",
+            "ringe gehen"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "carnaval",
+        "answers": [
+            "der karneval",
+            "die karneval",
+            "das karneval",
+            "der karneva"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "disfarçar",
+        "answers": [
+            "ein kostüm tragen",
+            "der silvester",
+            "die silvester",
+            "das silvester"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "passagem de ano",
+        "answers": [
+            "der silvester",
+            "die silvester",
+            "jahre gehen",
+            "jahre passage"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "der Feuerwek sehen",
+        "answers": [
+            "ver o fogo de artificio",
+            "ter fogo de artificio",
+            "lancar fogo de artificio",
+            "soltar canas"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "austoßen",
+        "answers": [
+            "brindar",
+            "bater copos",
+            "fazer festa num carro",
+            "o martins é gay"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "festa dos bebados",
+        "answers": [
+            "Party",
+            "Oktoberfest",
+            "GlassParty",
+            "PartyDoll"
+        ],
+        "correct": 2
+    }
+]

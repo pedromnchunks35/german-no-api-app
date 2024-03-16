@@ -1,0 +1,62 @@
+[
+    {
+        "question": "esquerda",
+        "answers": [
+            "links",
+            "vorn",
+            "unten",
+            "oben"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "direita",
+        "answers": [
+            "hinten",
+            "oben",
+            "links",
+            "rechts"
+        ],
+        "correct": 4
+    },
+    {
+        "question": "frente",
+        "answers": [
+            "oben",
+            "rechts",
+            "vorn",
+            "hinten"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "abaixo",
+        "answers": [
+            "hinten",
+            "oben",
+            "unten",
+            "rechts"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "oben",
+        "answers": [
+            "acima",
+            "links",
+            "rechts",
+            "unten"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "voltar atrás",
+        "answers": [
+            "hinten",
+            "links",
+            "rechts",
+            "unten"
+        ],
+        "correct": 1
+    }
+]

@@ -4,6 +4,18 @@ import grammar from '../db/grammar.json'
 import artikel from '../db/artikel.json'
 import possesiv from '../db/possesiv.json'
 import localePräpositionen from '../db/localePräpositionen.json'
+import questions from '../db/questions.json'
+import objects from '../db/objects.json'
+import actions from '../db/actions.json'
+import jahre_zeiten_uhrs_tags from '../db/jahreszeitenUndUhrsUndTags.json'
+import family from '../db/family.json'
+import land from '../db/land.json'
+import directions from '../db/directions.json'
+import food from '../db/food.json'
+import transports from '../db/transports.json'
+import home from '../db/home.json'
+import body from '../db/body.json'
+import party_times from '../db/partyTimes.json'
 export type WrongAnswer = {
     question: Question
     answer: Number
@@ -36,6 +48,30 @@ export const getCorrectDb = (theme: string) => {
             return possesiv;
         case "localePräpositionen":
             return localePräpositionen;
+        case "questions":
+            return questions;
+        case "objects":
+            return objects;
+        case "actions":
+            return actions;
+        case "jahrezeiten,uhrs und tags":
+            return jahre_zeiten_uhrs_tags;
+        case "family":
+            return family;
+        case "land":
+            return land;
+        case "directions":
+            return directions;
+        case "food":
+            return food;
+        case "transports":
+            return transports;
+        case "home":
+            return home;
+        case "body":
+            return body;
+        case "party times":
+            return party_times;
         default:
             return vocabulary;
     }
