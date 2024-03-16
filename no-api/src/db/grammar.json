@@ -410,254 +410,254 @@
         "correct": 1
     },
     {
-        "question": "",
+        "question": "Ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "bin",
+            "bist",
+            "ist",
+            "sind"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "Du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "bist",
+            "ist",
+            "sind",
+            "seid"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "sind",
+            "ist",
+            "seid",
+            "sein"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "bist",
+            "bin",
+            "seid",
+            "sind"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "bin",
+            "seid",
+            "sind",
+            "bist"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "bin",
+            "seid",
+            "seid",
+            "sind"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "mogt",
+            "magst",
+            "mag",
+            "mogen"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "mag",
+            "magst",
+            "mögen",
+            "mogt"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "mögen",
+            "magst",
+            "mogt",
+            "mag"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "mag",
+            "mogt",
+            "mögen",
+            "magst"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "mag",
+            "mögt",
+            "mögen",
+            "magst"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "mag",
+            "magst",
+            "mögen",
+            "mögt"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hast",
+            "habe",
+            "haben",
+            "habt"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hast",
+            "haben",
+            "hapt",
+            "habe"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "haben",
+            "habe",
+            "hat",
+            "hast"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hapt",
+            "hast",
+            "haben",
+            "habe"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "hast",
+            "habt",
+            "habe",
+            "haben"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "habt",
+            "hast",
+            "haben",
+            "habe"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "möchthen",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "estar com",
+            "fazer",
+            "gostaria de",
+            "querer"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "ich",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "möchte",
+            "möchtest",
+            "möchten",
+            "möchtet"
         ],
-        "correct": 0
+        "correct": 1
     },
     {
-        "question": "",
+        "question": "du",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "möchte",
+            "möchtest",
+            "möchten",
+            "möchtet"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
-        "question": "",
+        "question": "er/es/sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "möchten",
+            "möchtest",
+            "möchte",
+            "möchtet"
         ],
-        "correct": 0
+        "correct": 3
     },
     {
-        "question": "",
+        "question": "wir",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "möchtest",
+            "möchte",
+            "möchtet",
+            "möchten"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "ihr",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "möchte",
+            "möchtest",
+            "möchten",
+            "möchtet"
         ],
-        "correct": 0
+        "correct": 4
     },
     {
-        "question": "",
+        "question": "sie/Sie",
         "answers": [
-            "",
-            "",
-            "",
-            ""
+            "möchtest",
+            "möchten",
+            "möchtet",
+            "möchte"
         ],
-        "correct": 0
+        "correct": 2
     },
     {
         "question": "",
