@@ -308,5 +308,25 @@
             "bazuca"
         ],
         "correct": 2
+    },
+    {
+        "question": "Manteiga",
+        "answers": [
+            "die Butter",
+            "der Butter",
+            "das Butter",
+            "N/A"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "chourico",
+        "answers": [
+            "das wurst",
+            "die wurst",
+            "der wurst",
+            "N/A"
+        ],
+        "correct": 2
     }
 ]

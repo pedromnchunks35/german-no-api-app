@@ -128,5 +128,15 @@
             "schalfen"
         ],
         "correct": 3
+    },
+    {
+        "question": "Chapeu",
+        "answers": [
+            "die Hut",
+            "das Hut",
+            "der Hut",
+            "den Hut"
+        ],
+        "correct": 1
     }
 ]

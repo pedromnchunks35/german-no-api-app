@@ -1,31 +1,31 @@
 [
     {
-        "question": "das Auge",
+        "question": "olhos",
         "answers": [
-            "olhos",
-            "nariz",
-            "bracos",
-            "labios"
+            "das Auge",
+            "der Auge",
+            "die Auge",
+            "N/A"
         ],
         "correct": 1
     },
     {
-        "question": "die Nase",
+        "question": "nariz",
         "answers": [
-            "olhos",
-            "bracos",
-            "labios",
-            "nariz"
+            "N/A",
+            "das Nase",
+            "der Nase",
+            "die Nase"
         ],
         "correct": 4
     },
     {
-        "question": "der Mund",
+        "question": "Boca",
         "answers": [
-            "olhos",
-            "labios",
-            "boca",
-            "nariz"
+            "das Mund",
+            "die Mund",
+            "der Mund",
+            "N/A"
         ],
         "correct": 3
     },
@@ -40,22 +40,22 @@
         "correct": 1
     },
     {
-        "question": "der Hals",
+        "question": "pescoco",
         "answers": [
-            "pescoco",
-            "boca",
-            "orelhas",
-            "nariz"
+            "der Hals",
+            "die Hals",
+            "das Hals",
+            "N/A"
         ],
         "correct": 1
     },
     {
-        "question": "die Schuster",
+        "question": "Ombro",
         "answers": [
-            "mao",
-            "ombro",
-            "nariz",
-            "costas"
+            "der Schuster",
+            "die Schuster",
+            "das Schuster",
+            "N/A"
         ],
         "correct": 2
     },
